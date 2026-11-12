@@ -1,0 +1,25 @@
+Class Demo:
+
+clet-init - Cself. name. age):
+
+Self-name = name
+
+Self. age = age
+
+clef show (self):
+
+Print (self. name)
+
+print (self.age)
+
+di, nem (1lxprit 121)
+
+l. = Show()
+
+d₂ = Demo ("Yadar" Is)
+
+d2 Show()
+
+ds Demo ("druva", 19)
+
+ds-Show()
